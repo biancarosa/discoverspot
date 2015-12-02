@@ -4,7 +4,7 @@ App that connects with the user library on Spotify and shows tracks, artists and
 
 # ClientID/ClientSecret
 
-Configs are stored in a file ignored by git named config.json, which defined client_id and client_secret variables
+Configs are stored in a file ignored by git named config.json, which defines client_id and client_secret variables
 
 # Credits
 
